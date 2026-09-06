@@ -107,21 +107,19 @@ The dashboard provides a clear overview of sales performance and business growth
 The purpose is to move from raw transactional data → meaningful
 business information → actionable analysis.
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
-Sales Overview
+### Page 1 — Sales Overview
 
+![Sales Overview](Dashboard%20Preview/sales.png)
 
+### Page 2 — Customer Details
 
-Customer Details
+![Customer Details](Dashboard%20Preview/customer.png)
 
+### Page 3 — Product Details
 
-
-Product Details
-
-
-
-
+![Product Details](Dashboard%20Preview/product.png)
 
 📌 Project Outcome
 
